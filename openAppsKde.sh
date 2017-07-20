@@ -1,4 +1,5 @@
 #!/bin/sh
+# Colocar en $HOME/.config/autostart-scriptscon permisos de ejecucion
 kstart --desktop 1 --windowclass Google-chrome google-chrome-stable --profile-directory="Profile 2"
 sleep 2s
 kstart --desktop 4 --windowclass TelegramDesktop telegram-desktop
